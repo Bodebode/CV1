@@ -35,7 +35,7 @@ const toggleSkills = () => {
             }, 200 * index);
         });
     } else {
-        const colors = ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#ff00ff", "#00ffff"];
+        const colors = ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#ffff", "#00ffff"];
         skillItems.forEach((skill, index) => {
             setTimeout(() => {
                 skill.classList.add("visible");

@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cf33e9b-8d4e-42ef-a480-e5c4c71a22e8" name="Changes" comment="CV on web">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/latestdynamic.js" beforeDir="false" afterPath="$PROJECT_DIR$/latestdynamic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <workItem from="1671693753455" duration="1649000" />
       <workItem from="1671695454102" duration="1098000" />
       <workItem from="1671696705760" duration="1508000" />
-      <workItem from="1671951597748" duration="1210000" />
+      <workItem from="1671951597748" duration="1579000" />
     </task>
     <task id="LOCAL-00001" summary="CV on web">
       <created>1671696520999</created>
@@ -114,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671952797036</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CV on web">
+      <created>1671953000233</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671953000233</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CV on web">
+      <created>1671953047073</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671953047073</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
